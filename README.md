@@ -24,6 +24,3 @@
 
 ---
 
-### 📊 GitHub Stats
-
-![Anu's GitHub stats](https://github-readme-stats.vercel.app/api?username=anu7053&show_icons=true&theme=radical)
