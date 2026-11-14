@@ -25,7 +25,7 @@
 * **[eks-gitops-security-pipeline](https://github.com/anu7053/eks-gitops-security-pipeline)**
   * Production-grade Amazon EKS infrastructure and DevSecOps pipeline built with Terraform, Kubernetes, and GitHub Actions featuring automated Checkov IaC scanning, Trivy vulnerability checks, and `$GITHUB_STEP_SUMMARY` compliance reporting.
 *  **[aws-aiops-security-finops-auditor](https://github.com/anu7053/aws-aiops-security-finops-auditor)**
-  * Autonomous AWS security and FinOps auditing agent built with Python, Google GenAI SDK (`gemini-3.8-flash`), and GitHub Actions using keyless AWS IAM OIDC authentication.
+   * Autonomous AWS security and FinOps auditing agent built with Python, Google GenAI SDK (`gemini-3.8-flash`), and GitHub Actions using keyless AWS IAM OIDC authentication.
 
 ---
 
